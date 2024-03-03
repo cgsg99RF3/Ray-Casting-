@@ -1,0 +1,6 @@
+/Users/rimmafilatova/mipt/tp/ray_casting/project/cmake-build-debug/CMakeFiles/first_try.dir
+/Users/rimmafilatova/mipt/tp/ray_casting/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rimmafilatova/mipt/tp/ray_casting/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rimmafilatova/mipt/tp/ray_casting/project/cmake-build-debug/src/CMakeFiles/Map.dir
+/Users/rimmafilatova/mipt/tp/ray_casting/project/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/rimmafilatova/mipt/tp/ray_casting/project/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
